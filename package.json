@@ -1,0 +1,23 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "chai",
+    "javascript",
+    "backend",
+    "node"
+  ],
+  "author": "Himanshu under guidance of hitesh sir",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.2"
+  }
+}
